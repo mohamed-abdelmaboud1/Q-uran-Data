@@ -39,8 +39,17 @@ This repository contains well-structured datasets related to Islamic content, in
 To integrate dynamic Quran content into your apps or platforms, you can use the following APIs:
 
 - [AlQuran Cloud API](https://alquran.cloud/api)  
-- [Quran API Documentation](https://quran.api-docs.io/)  
 - [Additional Quran API (Postman)](https://documenter.getpostman.com/view/7929737/TzkyMfPc)
+  
+### Quran Datasets
+
+Useful open-source datasets for Quranic content:
+
+- [Quran JSON Dataset by @semarketir](https://github.com/semarketir/quranjson)  
+  A well-structured JSON format of the Quran with metadata, translations, and verse indexing.
+
+- [Quran Data by @rn0x](https://github.com/rn0x/Quran-Data)  
+  A collection of Quranic data including text, translations, and audio links in multiple formats.
 
 ### Prayer Times APIs
 
