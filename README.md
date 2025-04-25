@@ -6,9 +6,26 @@
 
 This repository contains well-structured datasets related to Islamic content, including:
 
-- Quranic text and metadata  
-- Hadith collections (e.g., Sahih Bukhari) in CSV format  
-- Additional curated data for educational and development purposes
+- **azkar**  
+  Contains daily supplications and remembrance (أذكار الصباح والمساء) categorized for easy access.
+
+- **duaa**  
+  Includes a wide variety of Islamic supplications (دعاء) from authentic sources.
+
+- **hadith**  
+  Contains CSV files for Hadith collections such as *Sahih Bukhari*, structured for analysis and display in applications.
+
+- **names of allah**  
+  A dataset of the 99 names of Allah (أسماء الله الحسنى) with meanings and descriptions.
+
+- **tagweed**  
+  Information and rules of Tajweed (تجويد), useful for learning Quranic recitation properly.
+
+- **tasbeeh**  
+  Structured dhikr and tasbeeh (تسبيح) data for use in digital rosary apps or spiritual reminder tools.
+
+- **surahs.json**  
+  JSON file containing metadata about Quranic surahs (chapter names, number of verses, etc.).
 
 > ⚠️ **Note**: This repository provides **data files only**. It is not a standalone app or executable project.
 
