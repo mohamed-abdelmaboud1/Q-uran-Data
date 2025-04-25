@@ -22,7 +22,7 @@ To integrate dynamic Quran content into your apps or platforms, you can use the 
 
 - [AlQuran Cloud API](https://alquran.cloud/api)  
 - [Quran API Documentation](https://quran.api-docs.io/)  
-- [Additional Quran API](https://lnkd.in/ddfbPT9v)
+- [Additional Quran API](https://documenter.getpostman.com/view/7929737/TzkyMfPc)
 
 ### Prayer Times APIs
 
