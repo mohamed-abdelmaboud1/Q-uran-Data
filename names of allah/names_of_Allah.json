@@ -1,0 +1,602 @@
+[
+  {
+    "name": "اللَّهُ",
+    "description": "وهو الاسم الأعظم الذي تفرد به الحق سبحانه وخص به نفسه وجعله أول أسمائه، وأضافها كلها إليه فهو علم على ذاته سبحانه",
+    "transliteration": "Allah",
+    "meaning": "The God, The One and Only"
+  },
+  {
+    "name": "الرَّحْمَنُ",
+    "description": "كثير الرحمة وهو اسم مقصور على الله عز وجل ولا يجوز أن يقال رحمن لغير الله، وذلك لأن رحمته وسعت كل شيء وهو أرحم الراحمين",
+    "transliteration": "Ar Rahmaan",
+    "meaning": "The Beneficent"
+  },
+  {
+    "name": "الرَّحِيم",
+    "description": "هو المنعم أبدا، المتفضل دوما، فرحمته لا تنتهي",
+    "transliteration": "Ar Raheem",
+    "meaning": "The Merciful"
+  },
+  {
+    "name": "المَلِك",
+    "description": "هو الله، ملك الملوك، له الملك، وهو مالك يوم الدين، ومليك الخلق فهو المالك المطلق",
+    "transliteration": "Al Malik",
+    "meaning": "The King / Eternal Lord"
+  },
+  {
+    "name": "الْقُدُّوس",
+    "description": "هو الطاهر المنزه عن العيوب والنقائص وعن كل ما تحيط به العقول",
+    "transliteration": "Al Quddus",
+    "meaning": "The Purest"
+  },
+  {
+    "name": "السَّلَام",
+    "description": "هو ناشر السلام بين الأنام وهو الذي سلمت ذاته من النقص والعيب والفناء",
+    "transliteration": "As Salaam",
+    "meaning": "The Source of Peace"
+  },
+  {
+    "name": "المُؤْمِن",
+    "description": "هو الذي سلم أوليائه من عذابه، والذي يصدق عباده ما وعدهم",
+    "transliteration": "Al Mu'min",
+    "meaning": "The inspirer of faith"
+  },
+  {
+    "name": "الْمُهَيْمِن",
+    "description": "هو الرقيب الحافظ لكل شيء، القائم على خلقه بأعمالهم، وأرزاقهم وآجالهم، والمطلع على خفايا الأمور وخبايا الصدور",
+    "transliteration": "Al Muhaymin",
+    "meaning": "The Guardian"
+  },
+  {
+    "name": "الْعَزِيز",
+    "description": "هو المنفرد بالعزة، الظاهر الذي لا يقهر، القوي الممتنع فلا يغلبه شيء وهو غالب كل شيء",
+    "transliteration": "Al Azeez",
+    "meaning": "The Precious / The Most Mighty"
+  },
+  {
+    "name": "الْجَبَّار",
+    "description": "هو الذي تنفذ مشيئته، ولا يخرج أحد عن تقديره، وهو القاهر لخلقه على ما أراد",
+    "transliteration": "Al Jabbaar",
+    "meaning": "The Compeller"
+  },
+  {
+    "name": "الْمُتَكَبِّر",
+    "description": "هو المتعالى عن صفات الخلق المنفرد بالعظمة والكبرياء",
+    "transliteration": "Al Mutakabbir",
+    "meaning": "The Greatest"
+  },
+  {
+    "name": "الْخَالِق",
+    "description": "هو الفاطر المبدع لكل شيء، والمقدر له والموجد للأشياء من العدم، فهو خالق كل صانع وصنعته",
+    "transliteration": "Al Khaaliq",
+    "meaning": "The Creator"
+  },
+  {
+    "name": "الْبَارِئ",
+    "description": "هو الذي خلق الخلق بقدرته لا عن مثال سابق، القادر على إبراز ما قدره إلى الوجود",
+    "transliteration": "Al Baari",
+    "meaning": "The Maker of Order"
+  },
+  {
+    "name": "الْمُصَوِّر",
+    "description": "هو الذي صور جميع الموجودات، ورتبها فأعطى كل شيء منها صورة خاصة، وهيئة منفردة، يتميز بها على اختلافها وكثرتها",
+    "transliteration": "Al Musawwir",
+    "meaning": "The Shaper of Beauty"
+  },
+  {
+    "name": "اَلْغَفَّار",
+    "description": "هو وحده الذي يغفر الذنوب ويستر العيوب في الدنيا والآخرة",
+    "transliteration": "Al Ghaffaar",
+    "meaning": "The Forgiving"
+  },
+  {
+    "name": "الْقَهَّار",
+    "description": "هو الغالب الذي قهر خلقه بسلطانه وقدرته، وخضعت له الرقاب وذلت له الجبابرة، وصرف خلقه على ما أراد طوعا وكرها، وعنت الوجوه له",
+    "transliteration": "Al Qahhaar",
+    "meaning": "The Subduer"
+  },
+  {
+    "name": "الْوَهَّاب",
+    "description": "هو المنعم على العباد، الذي يهب بغير عوض ويعطي الحاجة بغير سؤال، كثير النعم، دائم العطاء",
+    "transliteration": "Al Wahhaab",
+    "meaning": "The Giver of All"
+  },
+  {
+    "name": "الرَّزَّاق",
+    "description": "هو الذي خلق الأرزاق وأعطى كل الخلائق أرزاقها، ويمد كل كائن لما يحتاجه، ويحفظ عليه حياته ويصلحه",
+    "transliteration": "Ar Razzaaq",
+    "meaning": "The Sustainer"
+  },
+  {
+    "name": "الْفَتَّاح",
+    "description": "هو الذي يفتح مغلق الأمور، ويسهل العسير، وبيده مفاتيح السماوات والأرض",
+    "transliteration": "Al Fattaah",
+    "meaning": "The Opener"
+  },
+  {
+    "name": "الْعَلِيم",
+    "description": "هو الذي يعلم تفاصيل الأمور، ودقائق الأشياء وخفايا الضمائر، والنفوس، لا يعزب عنه مثقال ذرة، فعلمه يحيط بجميع الأشياء",
+    "transliteration": "Al 'Aleem",
+    "meaning": "The Knower of all"
+  },
+  {
+    "name": "الْقَابِضُ",
+    "description": "هو الذي يقبض الرزق عمن يشاء من الخلق بعدله وحكمته، والذي يوسع الرزق لمن يشاء من عباده بجوده ورحمته فهو سبحانه القابض الباسط",
+    "transliteration": "Al Qaabid",
+    "meaning": "The Constrictor"
+  },
+  {
+    "name": "الْبَاسِطُ",
+    "description": "هو الذي يقبض الرزق عمن يشاء من الخلق بعدله وحكمته، والذي يوسع الرزق لمن يشاء من عباده بجوده ورحمته فهو سبحانه القابض الباسط",
+    "transliteration": "Al Baasit",
+    "meaning": "The Reliever"
+  },
+  {
+    "name": "الخافض",
+    "description": "هو الذي يخفض الأذلال لكل من طغى وتجبر وخرج على شريعته وتمرد، وهو الذي يرفع عباده المؤمنين بالطاعات ويرفعهم على عدوهم فينصرهم وهو رافع السماوات السبع",
+    "transliteration": "Al Khaafid",
+    "meaning": "The Abaser"
+  },
+  {
+    "name": "الرَّافِعُ",
+    "description": "هو الذي يخفض الأذلال لكل من طغى وتجبر وخرج على شريعته وتمرد، وهو الذي يرفع عباده المؤمنين بالطاعات ويرفعهم على عدوهم فينصرهم وهو رافع السماوات السبع",
+    "transliteration": "Ar Raafi'",
+    "meaning": "The Exalter"
+  },
+  {
+    "name": "المعز",
+    "description": "هو الذي يهب القوة والغلبة والشدة لمن شاء فيعزه، وينزعها عمن يشاء فيذله",
+    "transliteration": "Al Mu'iz",
+    "meaning": "The Bestower of Honour"
+  },
+  {
+    "name": "المذل",
+    "description": "هو الذي يهب القوة والغلبة والشدة لمن شاء فيعزه، وينزعها عمن يشاء فيذله",
+    "transliteration": "Al Mudhil",
+    "meaning": "The Humiliator"
+  },
+  {
+    "name": "السَّمِيعُ",
+    "description": "ومعناه سمعه لجميع الأصوات الظاهرة والباطنة الخفية والجلية، وإحاطته التامة بها، ومعناه أيضًا: سمع الإجابة منه للسائلين والداعين والعابدين فيجيبهم ويثيبهم",
+    "transliteration": "As Samee'",
+    "meaning": "The Hearer of all"
+  },
+  {
+    "name": "الْبَصِير",
+    "description": "هو الذي يرى الأشياء كلها ظاهرها وباطنها وهو المحيط بكل شيء علماً",
+    "transliteration": "Al Baseer",
+    "meaning": "The Seer of all"
+  },
+  {
+    "name": "الْحَكَم",
+    "description": "هو الذي يفصل بين مخلوقاته بما شاء ويفصل بين الحق والباطل لا راد لقضائه ولا معقب لحكمه",
+    "transliteration": "Al Hakam",
+    "meaning": "The Judge"
+  },
+  {
+    "name": "العدل",
+    "description": "هو الذي حرم الظلم على نفسه، وجعله على عباده محرما، فهو المنزه عن الظلم والجور في أحكامه وأفعاله الذي يعطي كل ذي حق حقه",
+    "transliteration": "Al 'Adl",
+    "meaning": "The Just"
+  },
+  {
+    "name": "اللَّطِيفُ",
+    "description": "هو البر الرفيق بعباده، يرزق وييسر ويحسن إليهم، ويرفق بهم ويتفضل عليهم",
+    "transliteration": "Al Lateef",
+    "meaning": "The Subtle One"
+  },
+  {
+    "name": "الْخَبِيرُ",
+    "description": "هو العليم بدقائق الأمور، لا تخفى عليه خافية، ولا يغيب عن علمه شيء فهو العالم بما كان ويكون",
+    "transliteration": "Al Khabeer",
+    "meaning": "The All Aware"
+  },
+  {
+    "name": "الْحَلِيمُ",
+    "description": "هو الحليم الذي لا يعاجل العصاة بالنقمة، بل يعفوا ويؤخر، ولا يسرع بالفعل قبل أوانه",
+    "transliteration": "Al Haleem",
+    "meaning": "The Forebearing"
+  },
+  {
+    "name": "الْعَظِيمُ",
+    "description": "هو العظيم في كل شئ، عظيم في ذاته وأسمائه وصفاته، عظيم في رحمته، عظيم في قدرته، عظيم في حكمته، عظيم في جبروته وكبريائه، عظيم في هبته وعطائه، عظيم في خبرته ولطفه، عظيم في بره وإحسانه، عظيم في عزته وعدله وحمده، فهو العظيم المطلق، فلا أحد يساويه",
+    "transliteration": "Al 'Azeem",
+    "meaning": "The Maginificent"
+  },
+  {
+    "name": "الْغَفُورُ",
+    "description": "هو الساتر لذنوب عباده المتجاوز عن خطاياهم وذنوبهم. الفرق بين هذا الاسم واسم الغفار أن اسم الغفور يكون للدلالة على مغفرة الذنب مهما عظم وأيس صاحبه من المغفرة أما الغفار فتدل على مغفرة الله المستمرة للذنوب المختلفة لأن الإنسان خطاء فالله غفار",
+    "transliteration": "Al Ghafoor",
+    "meaning": "The Great Forgiver"
+  },
+  {
+    "name": "الشَّكُورُ",
+    "description": "هو الذي يزكو عنده القليل من أعمال العباد، فيتقبلها ويضاعف أجرها",
+    "transliteration": "Ash Shakoor",
+    "meaning": "The Rewarder of Thankfulness"
+  },
+  {
+    "name": "الْعَلِيُّ",
+    "description": "هو الرفيع القدر فلا يحيط به وصف الواصفين المتعالي عن الأنداد والأضداد، فكل معاني العلو ثابتة له ذاتا وقهرا وشأنا",
+    "transliteration": "Al 'Aliyy",
+    "meaning": "The Highest"
+  },
+  {
+    "name": "الْكَبِيرُ",
+    "description": "هو العظيم الجليل ذو الكبرياء في صفاته وأفعاله فلا يحتاج إلى شيء ولا يعجزه شيء (ليس كمثله شيء)",
+    "transliteration": "Al Kabeer",
+    "meaning": "The Greatest"
+  },
+  {
+    "name": "الْحَفِيظُ",
+    "description": "هو الذي لا يغرب عن حفظه شيء ولو كمثقال الذر فحفظه لا يتبدل ولا يزول ولا يعتريه التبديل",
+    "transliteration": "Al Hafeez",
+    "meaning": "The Preserver"
+  },
+  {
+    "name": "المُقِيت",
+    "description": "هو المتكفل بإيصال أقوات الخلق إليهم وهو الحفيظ والمقتدر والقدير والمقدر والممدد",
+    "transliteration": "Al Muqeet",
+    "meaning": "The Nourisher"
+  },
+  {
+    "name": "الْحَسِيبُ",
+    "description": "هو الكافي الذي منه كفاية العباد وهو الذي عليه الاعتماد يكفي العباد بفضله",
+    "transliteration": "Al Haseeb",
+    "meaning": "The Reckoner"
+  },
+  {
+    "name": "الجليل",
+    "description": "هو العظيم المطلق المتصف بجميع صفات الكمال والمنعوت بكمالها المنزه عن كل نقص",
+    "transliteration": "Al Jaleel",
+    "meaning": "The Majestic"
+  },
+  {
+    "name": "الْكَرِيمُ",
+    "description": "هو الكثير الخير الجواد المعطي الذي لا ينفذ عطاؤه وهو الكريم المطلق الجامع لأنواع الخير والشرف والفضائل المحمود بفعاله",
+    "transliteration": "Al Kareem",
+    "meaning": "The Generous"
+  },
+  {
+    "name": "الرَّقِيبُ",
+    "description": "هو الرقيب الذي يراقب أحوال العباد ويعلم أقوالهم ويحصي أعمالهم وهو الحافظ الذي لا يغيب عنه شيء",
+    "transliteration": "Ar Raqeeb",
+    "meaning": "The Watchful One"
+  },
+  {
+    "name": "الْمُجِيبُ",
+    "description": "هو الذي يجيب دعاء من دعاه، وسؤال من سأله، ويقابله بالعطاء والقبول، ولا يسأل أحد سواه",
+    "transliteration": "Al Mujeeb ",
+    "meaning": "The Responder to Prayer"
+  },
+  {
+    "name": "الْوَاسِعُ",
+    "description": "هو الذي وسع رزقه جميع خلقه، وسعت رحمته كل شيء المحيط بكل شيء",
+    "transliteration": "Al Waasi'",
+    "meaning": "The All Comprehending"
+  },
+  {
+    "name": "اَلْحَكِيمُ",
+    "description": "هو المحق في تدبيره اللطيف في تقديره الخبير بحقائق الأمور العليم بحكمه المقدور فجميع خلقه وقضاه خير وحكمة وعدل",
+    "transliteration": "Al Hakeem",
+    "meaning": "The Perfectly Wise"
+  },
+  {
+    "name": "الْوَدُودُ",
+    "description": "هو المحب لعباده، والمحبوب في قلوب أوليائه",
+    "transliteration": "Al Wudood",
+    "meaning": "The Loving One"
+  },
+  {
+    "name": "الْمَجِيدُ",
+    "description": "هو الله تمجَّد بفعاله، ومجَّده خلقه لعظمته، والمجيد هو واسع الكرم، ووصف نفسه بالمجيد وهو متضمن كثرة صفات كماله وسعتها، وعدم إحصاء الخلق لها، وسعة أفعاله وكثرة خيره ودوامه. وتعني أيضاً البالغ النهاية في المجد، الكثير الإحسان الجزيل العطاء العظيم البر. تمجد",
+    "transliteration": "Al Majeed",
+    "meaning": "The Most Glorious One"
+  },
+  {
+    "name": "الباعث",
+    "description": "هو باعث الخلق يوم القيامة، وباعث رسله إلى العباد، وباعث المعونة إلى العبد",
+    "transliteration": "Al Baa'ith",
+    "meaning": "The Resurrector"
+  },
+  {
+    "name": "الشَّهِيدُ",
+    "description": "هو الحاضر الذي لا يغيب عنه شيء، فهو المطلع على كل شيء مشاهد له عليم بتفاصيله",
+    "transliteration": "Ash Shaheed",
+    "meaning": "The Witness"
+  },
+  {
+    "name": "الْحَقُّ",
+    "description": "هو الذي يحق الحق بكلماته ويؤيد أولياءه فهو المستحق للعبادة",
+    "transliteration": "Al Haqq",
+    "meaning": "The Truth"
+  },
+  {
+    "name": "الْوَكِيلُ",
+    "description": "هو الكفيل بالخلق القائم بأمورهم فمن توكل عليه تولاه وكفاه، ومن استغنى به أغناه وأرضاه",
+    "transliteration": "Al Wakeel",
+    "meaning": "The Trustee"
+  },
+  {
+    "name": "الْقَوِيّ",
+    "description": "هو صاحب القدرة التامة البالغة الكمال غالب لا يُغلب فقوته فوق كل قوة، ولايرد قضاءه راد، ينفذ أمره، ويمضي قضاؤه في خلقه، شديد عقابه لمن كفر بآياته وجحد حججه",
+    "transliteration": "Al Qawiyy",
+    "meaning": "The Possessor of all strength"
+  },
+  {
+    "name": "الْمَتِينُ",
+    "description": "هو الشديد الذي لا يحتاج في إمضاء حكمه إلى جند أو مدد ولا إلى معين، فهو المتناهي في القوة، التي لاتلحق أفعاله مشقة، ولايمسه فيها لغوب",
+    "transliteration": "Al Mateen",
+    "meaning": "The Forceful"
+  },
+  {
+    "name": "الْوَلِيُّ",
+    "description": "هو المحب الناصر لمن أطاعه، ينصر أولياءه، ويقهر أعداءه، والمتولي الأمور الخلائق ويحفظهم",
+    "transliteration": "Al Waliyy",
+    "meaning": "The Protector"
+  },
+  {
+    "name": "الْحَمِيدُ",
+    "description": "هو المستحق للحمد والثناء له منتهى الحمد وأطيبه على ذاته وصفاته وعلى نعمه التي لا تحصى",
+    "transliteration": "Al Hameed",
+    "meaning": "The Praised"
+  },
+  {
+    "name": "الْـمُحصِي",
+    "description": "هو الذي أحصى كل شيء بعلمه، فلا يفوته منها دقيق ولا جليل",
+    "transliteration": "Al Muhsi",
+    "meaning": "The Appraiser"
+  },
+  {
+    "name": "المبدئ",
+    "description": "هو الذي أنشأ الأشياء، واخترعها ابتداء من غير سابق مثال",
+    "transliteration": "Al Mubdi",
+    "meaning": "The Originator"
+  },
+  {
+    "name": "المعيد",
+    "description": "هو الذي يعيد الخلق بعد الحياة إلى الممات في الدنيا، وبعد الممات إلى الحياة يوم القيامة",
+    "transliteration": "Al Mu'eed",
+    "meaning": "The Restorer"
+  },
+  {
+    "name": "المُحيي",
+    "description": "هو خالق الحياة ومعطيها لمن شاء، يحيي الخلق من العدم ثم يحييهم بعد الموت",
+    "transliteration": "Al Muhiy",
+    "meaning": "The Giver of life"
+  },
+  {
+    "name": "المميت",
+    "description": "هو مقدر الموت على كل من أماته ولا مميت سواه، قهر عباده بالموت متى شاء وكيف شاء",
+    "transliteration": "Al Mumeet",
+    "meaning": "The Taker of life"
+  },
+  {
+    "name": "الْحَيُّ",
+    "description": "هو المتصف بالحياة الأبدية التي لا بداية لها ولا نهاية فهو الباقي أزلا وأبدا وهو الحي الذي لا يموت",
+    "transliteration": "Al Haiyy",
+    "meaning": "The Ever Living"
+  },
+  {
+    "name": "الْقَيُّومُ",
+    "description": "هو القائم بنفسه، الغني عن غيره، وهو القائم بتدبير أمر خلقه في إنشائهم ورزقهم",
+    "transliteration": "Al Qayyoom",
+    "meaning": "The Self Existing"
+  },
+  {
+    "name": "الواجد",
+    "description": "هو الذي لا يعوزه شيء ولا يعجزه شيء يجد كل ما يطلبه، ويدرك كل ما يريده",
+    "transliteration": "Al Waajid",
+    "meaning": "The Finder"
+  },
+  {
+    "name": "الماجد",
+    "description": "هو الذي له الكمال المتناهي والعز الباهي، له العز في الأوصاف والأفعال الذي يعامل العباد بالجود والرحمة",
+    "transliteration": "Al Maajid",
+    "meaning": "The Glorious"
+  },
+  {
+    "name": "الْوَاحِدُ",
+    "description": "هو الفرد المتفرد في ذاته وصفائه وأفعاله، واحد في ملكه لا ينازعه أحد، لا شريك له سبحانه",
+    "transliteration": "Al Waahid",
+    "meaning": "The Only One"
+  },
+  {
+    "name": "الصَّمَدُ",
+    "description": "هو المطاع الذي لا يقضى دونه أمر، الذي يقصد إليه في الحوائج فهو مقصد عباده في مهمات دينهم ودنياهم",
+    "transliteration": "As Samad",
+    "meaning": "The Supreme Provider"
+  },
+  {
+    "name": "الْقَادِرُ",
+    "description": "هو الذي يقدر على إيجاد المعدوم وإعدام الموجود على قدر ما تقتضي الحكمة، لا زائدا عليه ولا ناقصا عنه",
+    "transliteration": "Al Qaadir",
+    "meaning": "The Powerful"
+  },
+  {
+    "name": "الْمُقْتَدِرُ",
+    "description": "هو الذي يقدر على إصلاح الخلائق على وجه لا يقدر عليه غيره",
+    "transliteration": "Al Muqtadir",
+    "meaning": "The Creator of all power"
+  },
+  {
+    "name": "الْمُقَدِّمُ",
+    "description": "هو الذي يقدم الأشياء ويضعها في مواضعها، فمن استحق التقديم قدمه",
+    "transliteration": "Al Muqaddim",
+    "meaning": "The Expediter"
+  },
+  {
+    "name": "الْمُؤَخِّرُ",
+    "description": "هو الذي يؤخر الأشياء فيضعها في مواضعها المؤخر لمن شاء من الفجار والكفار وكل من يستحق التأخير",
+    "transliteration": "Al Mu’akhir",
+    "meaning": "The Delayer"
+  },
+  {
+    "name": "الْأَوَّلُ",
+    "description": "هو الذي لم يسبقه في الوجود شيء فهو أول قبل الوجود",
+    "transliteration": "Al Awwal",
+    "meaning": "The First"
+  },
+  {
+    "name": "الْآخِرُ",
+    "description": "هو الباقي بعد فناء خلقه، البقاء الأبدي يفنى الكل وله البقاء وحده، فليس بعده شيء",
+    "transliteration": "Al Aakhir",
+    "meaning": "The Last"
+  },
+  {
+    "name": "الظَّاهِرُ",
+    "description": "هو الذي ظهر فوق كل شيء وعلا عليه، الظاهر وجوده لكثرة دلائله",
+    "transliteration": "Az Zaahir",
+    "meaning": "The Manifest"
+  },
+  {
+    "name": "الْبَاطِنُ",
+    "description": "هو العالم ببواطن الأمور وخفاياها، وهو أقرب إلينا من حبل الوريد",
+    "transliteration": "Al Baatin",
+    "meaning": "The Hidden"
+  },
+  {
+    "name": "الوالي",
+    "description": "هو المالك للأشياء المتصرف فيها بمشيئته وحكمته، ينفذ فيها أمره، ويجري عليها حكمه",
+    "transliteration": "Al Waali",
+    "meaning": "The Governor"
+  },
+  {
+    "name": "الْمُتَعَالِ",
+    "description": "هو الذي جل عن إفك المفترين، وتنزه عن وساوس المتحيرين",
+    "transliteration": "Al Muta’ali",
+    "meaning": "The Supreme One"
+  },
+  {
+    "name": "الْبَرُّ",
+    "description": "هو العطوف على عباده ببره ولطفه، ومن على السائلين بحسن عطائه، وهو الصدق فيما وعد",
+    "transliteration": "Al Barr",
+    "meaning": "The Doer of Good"
+  },
+  {
+    "name": "التَّوَّابُ",
+    "description": "هو الذي يوفق عباده للتوبة حتى يتوب عليهم ويقبل توبتهم فيقابل الدعاء بالعطاء، والتوبة بغفران الذنوب",
+    "transliteration": "At Tawwaab",
+    "meaning": "The Guide to Repentance"
+  },
+  {
+    "name": "الْمُنْتَقِمُ",
+    "description": "هو الذي يقصم ظهور الطغاة، ويشدد العقوبة على العصاة، وذلك بعد الإعذار والإنذار",
+    "transliteration": "Al Muntaqim",
+    "meaning": "The Avenger"
+  },
+  {
+    "name": "العَفُو",
+    "description": "هو الذي يترك المؤاخدة على الذنوب ولا يذكرك بالعيوب فهو يمحو السيئات ويتجاوز عن المعاصي",
+    "transliteration": "Al Afuww",
+    "meaning": "The Forgiver"
+  },
+  {
+    "name": "الرَّؤُوفُ",
+    "description": "هو المتعطف على المذنبين بالتوبة، الذي جاد بلطفه ومَنَّ بتعطفه، يستر العيوب ثم يعفو عنها",
+    "transliteration": "Ar Ra’oof",
+    "meaning": "The Clement"
+  },
+  {
+    "name": "مَالِكُ الْمُلْكِ",
+    "description": "هو المتصرف في ملكه كيف يشاء لا راد لحكمه، ولا معقب لأمره",
+    "transliteration": "Maalik Ul Mulk",
+    "meaning": "The Owner / Sovereign of All"
+  },
+  {
+    "name": "ذُو الْجَلَالِ والْإكْرَامِ",
+    "description": "هو المنفرد بصفات الجلال والكمال والعظمة، المختص بالإكرام والكرامة وهو أهل لأن يجل",
+    "transliteration": "Dhu Al Jalaali Wa Al Ikraam",
+    "meaning": "Possessor of Majesty and Bounty"
+  },
+  {
+    "name": "المقسط",
+    "description": "هو العادل في حكمه، الذي ينتصف للمظلوم من الظالم، ثم يكمل عدله فيرضي الظالم بعد إرضاء المظلوم",
+    "transliteration": "Al Muqsit",
+    "meaning": "The Equitable One"
+  },
+  {
+    "name": "الْجَامِعُ",
+    "description": "هو الذي جمع الكمالات كلها، ذاتا ووصفا وفعلا، الذي يجمع بين الخلائق المتماثلة والمتباينة، والذي يجمع الأولين والآخرين",
+    "transliteration": "Al Jaami'",
+    "meaning": "The Gatherer"
+  },
+  {
+    "name": "الْغَنِيُّ",
+    "description": "هو الذي لا يحتاج إلى شيء، وهو المستغني عن كل ما سواه، المفتقر إليه كل من عاداه",
+    "transliteration": "Al Ghaniyy",
+    "meaning": "The Rich One"
+  },
+  {
+    "name": "المغني",
+    "description": "هو معطي الغنى لعباده، يغني من يشاء غناه، وهو الكافي لمن شاء من عباده",
+    "transliteration": "Al Mughi",
+    "meaning": "The Enricher"
+  },
+  {
+    "name": "الْمُعْطِي",
+    "description": "هو الذي أعطى كل شيء",
+    "transliteration": "Al-Mu'ti",
+    "meaning": "The Giver of Everything"
+  },
+  {
+    "name": "المانع",
+    "description": "يمنع العطاء عن من يشاء ابتلاء أو حماية",
+    "transliteration": "Al Maani'",
+    "meaning": "The Preventer of Harm"
+  },
+  {
+    "name": "الضار",
+    "description": "هو المقدر للضر على من أراد كيف أراد",
+    "transliteration": "Ad Daaarr",
+    "meaning": "The Creator of Harmful"
+  },
+  {
+    "name": "النافع",
+    "description": "مقدر النفع والخير لمن أراد كيف أراد كل ذلك على مقتضى حكمته سبحانه",
+    "transliteration": "An Naafi’",
+    "meaning": "The Bestower of Benefits"
+  },
+  {
+    "name": "النُّورُ",
+    "description": "هو الهادي الرشيد الذي يرشد بهدايته من يشاء فيبين له الحق، ويلهمه اتباعه، الظاهر في ذاته، المظهر لغيره",
+    "transliteration": "An Noor",
+    "meaning": "The Light"
+  },
+  {
+    "name": "الْهَادِي",
+    "description": "هو المبين للخلق طريق الحق بكلامه يهدي القلوب إلى معرفته، والنفوس إلى طاعته",
+    "transliteration": "Al Haadi",
+    "meaning": "The Guider"
+  },
+  {
+    "name": "الْبَدِيعُ",
+    "description": "هو الذي لا يماثله أحد في صفاته ولا في حكم من أحكامه، أو أمر من أموره، فهو المحدث الموجد على غير مثال",
+    "transliteration": "Al Badi'",
+    "meaning": "The Originator"
+  },
+  {
+    "name": "الباقي",
+    "description": "هو وحده له البقاء، الدائم الوجود الموصوف بالبقاء الأزلي، غير قابل للفناء فهو الباقي بلا انتهاء",
+    "transliteration": "Al Baaqi",
+    "meaning": "The Everlasting One"
+  },
+  {
+    "name": "الْوَارِثُ",
+    "description": "هو الأبقى الدائم الذي يرث الخلائق بعد فناء الخلق، وهو يرث الأرض ومن عليها",
+    "transliteration": "Al Waarith",
+    "meaning": "The Inheritor"
+  },
+  {
+    "name": "الرشيد",
+    "description": "هو الذي أسعد من شاء بإرشاده، وأشقى من شاء بإبعاده، عظيم الحكمة بالغ الرشاد",
+    "transliteration": "Ar Rasheed",
+    "meaning": "The Most Righteous Guide"
+  },
+  {
+    "name": "الصبور",
+    "description": "هو الصبور الذي يمهل ولا يهمل، ويستر الذنوب، ويؤخر العقوبة، فيرزق العاصي كما يرزق المطيع",
+    "transliteration": "As Saboor",
+    "meaning": "The Patient One"
+  }
+]
