@@ -1,3 +1,4 @@
+
 # بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
 
 # 📚 Q-uran-Data
@@ -39,7 +40,7 @@ To integrate dynamic Quran content into your apps or platforms, you can use the 
 
 - [AlQuran Cloud API](https://alquran.cloud/api)  
 - [Quran API Documentation](https://quran.api-docs.io/)  
-- [Additional Quran API](https://documenter.getpostman.com/view/7929737/TzkyMfPc)
+- [Additional Quran API (Postman)](https://documenter.getpostman.com/view/7929737/TzkyMfPc)
 
 ### Prayer Times APIs
 
@@ -50,9 +51,41 @@ For accurate prayer timing data, consider using:
 
 ---
 
+## 📦 Useful Flutter Packages
+
+To build a complete Islamic app experience, the following Flutter packages are highly recommended:
+
+- [`hijri`](https://pub.dev/packages/hijri)  
+  Islamic Hijri calendar support for your Flutter app.
+
+- [`adhan`](https://pub.dev/packages/adhan)  
+  Advanced and reliable prayer time calculations.
+
+- [`adhan_dart`](https://pub.dev/packages/adhan_dart)  
+  Precise prayer time calculations in Dart (alternative to above).
+
+- [`flutter_qiblah`](https://pub.dev/packages/flutter_qiblah)  
+  A Flutter plugin to find Qiblah direction using device sensors.
+
+- [`quran_library`](https://pub.dev/packages/quran_library)  
+  Access to Quranic verses, Surahs, and metadata with search capabilities.
+  
+- [`location`](https://pub.dev/packages/location)  
+  Get the user's real-time location — essential for calculating accurate prayer times and Qiblah direction.
+
+- [`geolocator`](https://pub.dev/packages/geolocator)  
+  Another reliable location plugin with geocoding and distance calculation features.
+
+- [`just_audio`](https://pub.dev/packages/just_audio)  
+  A powerful audio player to support Quran recitations, background dhikr, or app sound effects.
+
+- [`assets_audio_player`](https://pub.dev/packages/assets_audio_player)  
+  Play audio files from assets — useful for offline Quran and Azkar recitations.
+---
+
 ## 📂 CSV Usage in Flutter
 
-To use the provided CSV files (e.g., `Sahih Bukhari.csv`) in a **Flutter** project, follow this approach:
+To use the provided CSV files (e.g., `Sahih Bukhari.csv`) in a **Flutter** project:
 
 1. **Place the file** in your `assets/data/` directory.
 
@@ -64,7 +97,7 @@ flutter:
     - assets/data/Sahih Bukhari.csv
 ```
 
-3. **Load and parse the file** in your code:
+3. **Load and parse the file** in your Dart code:
 
 ```dart
 Future<String> loadAsset(String path) async {
@@ -80,10 +113,10 @@ void loadCSV() {
 }
 ```
 
-This will allow you to handle the CSV content line-by-line within your Flutter app.
-
 ---
 
 ## 📜 License
 
-This repository is open for educational and non-commercial use. Please respect the integrity of the Islamic texts when using or modifying the data.
+This repository is open for educational and non-commercial use.  
+Please respect the authenticity and integrity of Islamic texts when using or modifying this data.
+
